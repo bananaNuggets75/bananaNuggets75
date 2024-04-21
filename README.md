@@ -8,4 +8,6 @@
 - Web Application Development
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaNuggets75)](https://github.com/bananaNuggets75/github-readme-stats)
+  <div>
+  <img width="350" alt="https://github.com/bananaNuggets75/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham" />
+</div> 
