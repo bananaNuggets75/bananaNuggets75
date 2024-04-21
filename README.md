@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @bananaNuggets75
-- 👀 I’m interested in Machine Learning, Web Development, Game Development, and Data Science 
-- 🌱 I’m currently learning Backend development 
-- 💞️ I’m looking to collaborate on making a website or might be interesting a game
-- 📫 How to reach me ...
+### Yaw! I'm `Kenan Ben`
 
-<!---
-bananaNuggets75/bananaNuggets75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="left" margin= "20px">Learning Interests</h4> 
+
+- Robotics
+- Machine Learning / Deep Learning
+- Data Science
+- Web Application Development
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaNuggets75)](https://github.com/bananaNuggets75/github-readme-stats)
