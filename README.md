@@ -1,11 +1,16 @@
 ### Yaw! I'm `Kenan Ben`
 
+<h3 align= "left", margin="20px">📚 Komsaiyan student from Central Philippine University. Have a Red Bull addiction </h3>
+
 <h4 align="left" margin="20px">Learning Interests</h4> 
 
-- Robotics
+- Mobile Application
 - Machine Learning / Deep Learning
 - Data Science
 - Web Application Development
+- Robotics
+
+<img align="right" height="250px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee" />
 
 <h2 align="left" margin="10px" style.less="border-bottom: none"> Now Playing 🎧</h2> 
 <!-- 
