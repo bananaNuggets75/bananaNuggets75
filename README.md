@@ -36,10 +36,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
+
 <hr>
 
 
-<h2 align="left" margin="50px" style.less="border-bottom: none"> Now Playing 🎧</h2> 
+<h2 align="left" style="margin-top: -20px; margin-bottom: 10px; border-bottom: none;">Now Playing 🎧</h2>
+
 <!-- 
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham)](https://github.com/bananaNuggets75/github-readme-stats)
  -->
