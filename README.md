@@ -11,7 +11,7 @@
 - Robotics
 
 ### <img src="https://images.fastcompany.com/image/upload/f_auto,c_fit,w_3840,q_auto/wp-cms/uploads/2017/09/p-1-pickle-rick-vindicators-and-space-prison-inside.jpg" width="40px" /> Languages, Tools and Frameworks: 
-<img align="right" height="250px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
+<img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 <hr>
 
 
-<h2 align="left" style="margin-top: -20px; margin-bottom: 10px; border-bottom: none;">Now Playing 🎧</h2>
+<h2 align="left" margin="10px" style.less="border-bottom: none"> Now Playing 🎧</h2> 
 
 <!-- 
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham)](https://github.com/bananaNuggets75/github-readme-stats)
