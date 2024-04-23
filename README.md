@@ -1,6 +1,6 @@
 ### Yaw! I'm `Kenan Ben`
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="40px" height="55" /> <span style="font-size: 20px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="60px" height="55" /> <span style="font-size: 20px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
 
 
 <h4 align="left" margin="20px">Learning Interests</h4> 
@@ -11,7 +11,7 @@
 - Web Application Development
 - Robotics
 
-### <img src="https://images.fastcompany.com/image/upload/f_auto,c_fit,w_3840,q_auto/wp-cms/uploads/2017/09/p-1-pickle-rick-vindicators-and-space-prison-inside.jpg" width="60px" height="55" /> Languages, Tools and Frameworks: 
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4Y2NkcHVmbjh1b2hlemR3cml1dWR1Z2FtOHJ5bmtvZGcxNDh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXWAIcr6jycE/giphy.gif" width="60px" height="55" /> Languages, Tools and Frameworks: 
 <img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
