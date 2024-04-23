@@ -10,7 +10,7 @@
 - Web Application Development
 - Robotics
 
-### <img src="https://images.fastcompany.com/image/upload/f_auto,c_fit,w_3840,q_auto/wp-cms/uploads/2017/09/p-1-pickle-rick-vindicators-and-space-prison-inside.jpg" width="40px" /> Languages, Tools and Frameworks: 
+### <img src="https://images.fastcompany.com/image/upload/f_auto,c_fit,w_3840,q_auto/wp-cms/uploads/2017/09/p-1-pickle-rick-vindicators-and-space-prison-inside.jpg" width="40px" height="55" /> Languages, Tools and Frameworks: 
 <img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,5 +49,17 @@
     <img style="vertical-align: middle" align="left" width="420" alt="https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
 </a>
 <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham">
+
+<hr>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif" width="50px" height="70px" /> Reach me at: ...
+<p align="center">
+  <a href="https://www.instagram.com/seben_10/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="mailto:kenanbenpolgo@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
 
 <hr>
