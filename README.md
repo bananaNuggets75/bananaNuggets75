@@ -1,6 +1,6 @@
 ### Yaw! I'm `Kenan Ben`
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="60px" height="55" /> <span style="font-size: 20px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="70px" height="65" /> <span style="font-size: 26px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
 
 
 <h4 align="left" margin="20px">Learning Interests</h4> 
@@ -11,7 +11,7 @@
 - Web Application Development
 - Robotics
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4Y2NkcHVmbjh1b2hlemR3cml1dWR1Z2FtOHJ5bmtvZGcxNDh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXWAIcr6jycE/giphy.gif" width="60px" height="55" /> Languages, Tools and Frameworks: 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4Y2NkcHVmbjh1b2hlemR3cml1dWR1Z2FtOHJ5bmtvZGcxNDh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXWAIcr6jycE/giphy.gif" width="70px" height="65" /> Languages, Tools and Frameworks: 
 <img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,8 +53,13 @@
 
 <hr>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif" width="65px" height="60px" /> Reach me at: ...
-<p align="left">
+### <img align="left" width="70px height="65px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpqaTY5MnJkcGIwdmMxZGNqZjR4dHgzM3pmaXRvbWdtdnd2b2tpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o8elHkOZR56g0/giphy.gif" /> I’m currently working on ...
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2plODRld2ttbGc5bGk5cTlwMzY1dDFlcTZ2aGNhMWRpMjVjb3piaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk3R16JhLP8RUka2nD/giphy.gif" height="40px" />  Improving myself
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExems1MHMxa2ltZDJmNW43MjFsY2x5eDl3NzN5cHNpZ2pkbTlxeDgxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZrLs0rcNc9sA/giphy.gif" width="30px" />  Arduino stuff with a friend
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlyY3NkY2Q4OWFuajBscmt0d2ZxYmExMzkxeGluaXJ4NnlobXNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NGp9QCXJcBPuU/giphy.gif" width="30px" />  Mobile Application with some GDSC peeps
+
+<img align="right" width="70px" height="65px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif" /> Reach me at: ...
+<p align="right">
   <a href="https://www.instagram.com/seben_10/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
