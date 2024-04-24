@@ -53,18 +53,8 @@
 
 <hr>
 
-<img align="left" height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNxcm91ZzNrbDM1bzRpa2V5YzZhaDNwejJqdTJyYnRudHRyaHdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVudyGEaizNeg/giphy.gif"/> I’m currently working on ...
-
+### <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
 <p align="left">
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2plODRld2ttbGc5bGk5cTlwMzY1dDFlcTZ2aGNhMWRpMjVjb3piaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk3R16JhLP8RUka2nD/giphy.gif" height="40px" width="50px" />  Improving myself
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExems1MHMxa2ltZDJmNW43MjFsY2x5eDl3NzN5cHNpZ2pkbTlxeDgxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZrLs0rcNc9sA/giphy.gif" width="50px" height="40px"/>  Arduino stuff with a friend
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlyY3NkY2Q4OWFuajBscmt0d2ZxYmExMzkxeGluaXJ4NnlobXNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NGp9QCXJcBPuU/giphy.gif" width="30px" height="40px"/>  Mobile Application with some GDSC peeps
-</p>
-
-<hr>
-
-### <img align="right" height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
-<p align="right">
   <a href="https://www.instagram.com/seben_10/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin-right: 5px;" />
   </a>
@@ -72,6 +62,7 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin-right: 5px;" />
   </a>
 </p>
+
 
 
 
