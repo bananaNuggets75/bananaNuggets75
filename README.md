@@ -46,10 +46,11 @@
 <!-- 
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham)](https://github.com/bananaNuggets75/github-readme-stats)
  -->
-<a href="https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl">
-    <img style="vertical-align: middle" align="left" width="420" alt="https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
-</a>
-<img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham">
+
+<p align="center"> 
+   <img style="display:inline-block; vertical-align:middle" alt="Spotify Now Playing" src="https://novatorem-spotify-ebon.vercel.app/api/spotify" width="50%">
+   <img style="display:inline-block; vertical-align:middle" src="https://spotify-recently-played-readme.vercel.app/api?user=31qayxotawruu62sus53uvocyfzq" width="35%">
+</p>
 
 <hr>
 
@@ -57,6 +58,8 @@
 <p align="left">
   <a href="https://www.instagram.com/seben_10/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin-right: 5px;" />
+    <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham">
+
   </a>
   <a href="mailto:kenanbenpolgo@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin-right: 5px;" />
