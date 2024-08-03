@@ -54,9 +54,9 @@
 
 <hr>
 
-### <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
-
 <p align="left">
+  ### <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
+
   <a href="https://www.instagram.com/seben_10/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin-right: 5px;" />
 
