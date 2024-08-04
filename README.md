@@ -67,7 +67,7 @@
   </a>
   </p>
 
-<p align="righ"t>
+<p align="right">
 <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham">
 </p>
 </p>
