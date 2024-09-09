@@ -11,6 +11,11 @@
 - Web Application Development
 - Robotics
 
+### I'm currenctly working on...
+- web based and mobile application project
+- improving myself
+- (i want a vacation)
+
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4Y2NkcHVmbjh1b2hlemR3cml1dWR1Z2FtOHJ5bmtvZGcxNDh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXWAIcr6jycE/giphy.gif" width="70px" height="65" /> Languages, Tools and Frameworks: 
 <img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
 
