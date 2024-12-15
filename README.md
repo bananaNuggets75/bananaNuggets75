@@ -1,3 +1,6 @@
+<p align="right">
+   <img src="https://user-badge.committers.top/philippines/bananaNuggets75.svg" />
+</p>
 ### Yaw! I'm `Kenan Ben`
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="70px" height="65" /> <span style="font-size: 26px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
