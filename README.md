@@ -61,6 +61,13 @@
 
 <hr>
 
+<p>
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-eosin.vercel.app?user=bananaNuggets75&theme=shadow-purple&border_radius=4.4" alt="GitHub Streak" align="left" /></a>
+  
+  <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham" margin-left=50px >
+</p>
+
 <p align="center">
   <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
   <a href="https://www.instagram.com/seben_10/">
@@ -70,9 +77,8 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham">
-</p>
 
+</p>
 
 
 <hr>
