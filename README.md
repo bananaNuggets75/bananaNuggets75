@@ -69,11 +69,16 @@
 
 <p align="center">
   <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
-  <a href="https://www.instagram.com/seben_10/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px"/>
+  <a href="https://www.linkedin.com/in/kenan-ben-polgo-9bb290335/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="mailto:kenanbenpolgo@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px"/>
+    <a href="mailto:kenanbenpolgo@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/seben_10/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a>
     <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham" margin-left=50px >
   </a>
 
