@@ -1,117 +1,239 @@
-<img src="https://user-badge.committers.top/philippines/bananaNuggets75.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kenan%20Ben&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Komsaiyan%20%C2%B7%20Builder%20%C2%B7%20Red%20Bull%20powered&descAlignY=56&descSize=16" width="100%" alt="" />
 
-### Yaw! I'm `Kenan Ben`
+<div align="center">
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="70px" height="65" /> <span style="font-size: 26px;"> Komsaiyan student from Central Philippine University. Have a Red Bull addiction. </span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CS+Graduate+2026+%7C+Central+Philippine+University;WattWise+AI+-+Hackathon+Champion;Machine+Learning+%2B+Blockchain;Iloilo+City%2C+Philippines" alt="Typing SVG" />
 
+<br>
 
-<h4 align="left" margin="20px">Learning Interests</h4> 
-
-- Web & Mobile App Development  
-- Machine Learning
-- Data Science  
-- Neural Networks & Deep Learning  
-- Robotics & Embedded Systems  
-
-### I'm currently working on...
-- Fighting bed rot 😴 and doomscrolling
-- Improving myself and trying to make money 💸  
-- Django and TypeScript projects  
-- Data Mining
-- Thesis work
-  
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4Y2NkcHVmbjh1b2hlemR3cml1dWR1Z2FtOHJ5bmtvZGcxNDh4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXWAIcr6jycE/giphy.gif" width="70px" height="65" /> Languages, Tools and Frameworks: 
-<img align="right" height="220px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="keibee"/>
-
-<!-- 🧠 Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="38px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- 🧰 Tools & IDEs -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- 🧱 Frameworks & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- 🛢️ Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="35px" title="SQL Server">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- 🔧 Platforms & Misc -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<hr>
-
-
-<h2 align="left" margin="10px" style.less="border-bottom: none"> Now Playing 🎧</h2> 
-
-<!-- 
-  [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/playlist/14uPY0PsEoZcvUkRfRPnLl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham)](https://github.com/bananaNuggets75/github-readme-stats)
- -->
-
-<p align="center"> 
-   <img style="display:inline-block; vertical-align:middle" alt="Spotify Now Playing" src="https://novatorem-spotify-ebon.vercel.app/api/spotify" width="50%">
-   <img style="display:inline-block; vertical-align:middle" src="https://spotify-recently-played-readme.vercel.app/api?user=31qayxotawruu62sus53uvocyfzq" width="35%">
-</p>
-
-<br />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzbnE1d2MyN3J4dmluYXBibjRxdDNjYTY2NHFtMXBkcTVta25jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuGjEiNXkrQG7ZL3AC/giphy.gif" width="110" alt="" />
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-eosin.vercel.app?user=bananaNuggets75&theme=shadow-purple&border_radius=4.4&card_width=950&card_height=210" alt="GitHub Streak" /></a>
-  <br />
+  <img src="https://user-badge.committers.top/philippines/bananaNuggets75.svg" alt="Philippines commit rank" />
+  <img src="https://komarev.com/ghpvc/?username=bananaNuggets75&style=flat-square&color=8b5cf6&label=profile+views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/kenan-ben-polgo-9bb290335/"><img src="https://img.shields.io/badge/-Let's_talk-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+</div>
 
-<p align="center">
-  <img height="65px" width="70px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif"/> Reach me at: ...
-  <a href="https://www.linkedin.com/in/kenan-ben-polgo-9bb290335/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="50px" width="50px" style="margin: 5px;" />
-  </a>
-    <a href="mailto:kenanbenpolgo@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="50px" width="50px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/keenaniganss/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="50px" width="50px" style="margin: 5px;" />
-  </a>
-  <a>
-    <img width="350" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham" margin-left=50px >
-  </a>
+<!-- Generated by .github/workflows/snake.yml into the `output` branch.
+     Blank until that workflow has run at least once. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bananaNuggets75/bananaNuggets75/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bananaNuggets75/bananaNuggets75/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bananaNuggets75/bananaNuggets75/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+<br>
+
+## <img src="https://api.iconify.design/fa6-solid/person-digging.svg?color=%238b5cf6&width=22" alt="" /> &nbsp;What I'm building
+
+<table>
+<tr><td width="60%" valign="top">
+
+<details open>
+<summary><b>WattWise AI</b> — <sub>Champion, "Ready, Spark, Charge 2026" hackathon</sub></summary>
+<br>
+
+Won 1st place at *Hacking the Future of Energy* — New Energy Nexus Philippines,
+with CPUGAD TBI and DOST Western Visayas iHubs, held at CPU. A web + mobile app
+that helps people understand and cut their energy use, reading electricity
+bills and meters via Gemini OCR. Hackathon prototype; full build in progress.
+
+`React` `TypeScript` `Expo` `Supabase` `Gemini OCR`
+
+<a href="https://github.com/bananaNuggets75/watt-wise"><img src="https://img.shields.io/badge/repo-watt--wise-8b5cf6?style=flat-square&logo=github" alt="" /></a>
+
+</details>
+
+<details>
+<summary><b>Guidance Support System</b> — <sub>Naive Bayes + sentiment analysis · thesis</sub></summary>
+<br>
+
+Counseling platform for a university guidance office. A Naive Bayes classifier
+predicts the likely mental-health category from a pre-session intake form, and a
+second model runs sentiment analysis on post-session feedback to gauge how well
+sessions worked.
+
+`Django` `Python` `scikit-learn` `NLTK` `PostgreSQL`
+
+</details>
+
+<details>
+<summary><b>CPU-SHS Research Archive</b> — <sub>live</sub></summary>
+<br>
+
+Research archive for CPU Senior High School — upload, search, filter and manage
+academic papers, with authentication, roles, and an admin moderation dashboard.
+
+`Next.js` `React` `TypeScript` `Firebase` `Cloudinary` `Node.js`
+
+<a href="https://cpu-research-archive.vercel.app/"><img src="https://img.shields.io/badge/live-cpu--research--archive-8b5cf6?style=flat-square&logo=vercel" alt="" /></a>
+
+</details>
+
+<details>
+<summary><b>Baccarat Analyzer</b> — <sub>logistic regression on a live WebSocket feed</sub></summary>
+<br>
+
+Chrome extension that tracks a live shoe in real time and runs a logistic-regression
+model blended with rule-based card counting. Feature extraction is mirrored between
+Python (training) and TypeScript (inference) so they match exactly — built as an
+honest study of where real signal exists (card composition) versus none (road patterns).
+
+`TypeScript` `React` `Python` `scikit-learn`
+
+</details>
+
+<details>
+<summary><b>More</b> — <sub>SafeDrive · Campus Food Ordering · Feed Mill POS · Blockchain E-Voting · GameOn</sub></summary>
+<br>
+
+Traffic violation management (Next.js + Firebase, team of 4) ·
+campus food ordering with real-time tracking ·
+POS and inventory for a real feed mill (Prisma + PostgreSQL) ·
+Django e-voting on a SHA-256 proof-of-work chain ·
+a Godot cooking game celebrating Region 6 delicacies.
+
+</details>
+
+</td><td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" width="100%" alt="keibee" />
+
+<sub><i>me, allegedly working</i></sub>
+
+</td></tr>
+</table>
+
+<br>
+
+## <img src="https://api.iconify.design/fa6-solid/seedling.svg?color=%238b5cf6&width=22" alt="" /> &nbsp;Currently learning
+
+<p>
+  <img src="https://img.shields.io/badge/-Neural_Networks_&_Deep_Learning-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="" />
+  <img src="https://img.shields.io/badge/-Data_Science-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="" />
+  <img src="https://img.shields.io/badge/-Web_&_Mobile-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="" />
+  <img src="https://img.shields.io/badge/-Robotics_&_Embedded-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="" />
 </p>
 
+<br>
 
+## <img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%238b5cf6&width=22" alt="" /> &nbsp;Stack
 
-<hr>
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,cpp,c,dart&theme=dark" alt="Python, TypeScript, JavaScript, Java, C#, C++, C, Dart" />
+</details>
+
+<details open>
+<summary><b>AI / ML / Data</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch, scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter" />
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,flutter,figma&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, HTML, CSS, Flutter, Figma" />
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,nestjs,express,dotnet&theme=dark" alt="Django, Flask, Node.js, NestJS, Express, .NET" />
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase,prisma&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase, Prisma" />
+</details>
+
+<details>
+<summary><b>Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,androidstudio,arduino,godot,vercel&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, PyCharm, Android Studio, Arduino, Godot, Vercel" />
+<!-- expo + cloudinary are not in skillicons (they return the 256-byte placeholder) -->
+<img src="https://cdn.simpleicons.org/expo/8b5cf6" width="48" alt="Expo" />
+<img src="https://cdn.simpleicons.org/cloudinary/8b5cf6" width="48" alt="Cloudinary" />
+</details>
+
+<br>
+
+## <img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=%238b5cf6&width=22" alt="" /> &nbsp;Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bananaNuggets75&theme=shadow-purple&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- Generated by .github/workflows/metrics.yml with a `repo`-scoped PAT, so these
+     count PRIVATE repositories too. Blank until that workflow has run once.
+     The github-profile-summary-cards / github-readme-stats widgets were removed:
+     they read the anonymous API, which sees only 2 public repos. -->
+<img src="metrics.languages.svg" width="46%" alt="Most used languages, private repos included" />
+<img src="metrics.isocalendar.svg" width="46%" alt="Isometric commit calendar" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bananaNuggets75&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&color=8b5cf6&line=8b5cf6&point=ffffff&bg_color=0d1117" width="92%" alt="Contribution activity graph" />
+
+<!-- github-readme-stats returned DEPLOYMENT_PAUSED (2026-07-23) — the public
+     instance is down, not rate-limited. Re-enable these if it comes back:
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananaNuggets75&layout=compact&langs_count=8&theme=gotham&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bananaNuggets75&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+-->
+
+</div>
+
+<br>
+
+## <img src="https://api.iconify.design/fa6-brands/spotify.svg?color=%231DB954&width=22" alt="" /> &nbsp;Now Playing
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Hosted by kittinan/spotify-github-profile - no tokens, no deployment.
+           Needs a one-time sign-in at:
+           https://spotify-github-profile.kittinanx.com/api/login
+           (Was novatorem, which is a Vercel app owned by someone else.) -->
+      <td valign="middle">
+        <a href="https://open.spotify.com/user/l8ti4tlbtj47i6vjn6cb76z56">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l8ti4tlbtj47i6vjn6cb76z56&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=8b5cf6&bar_color_cover=true" width="380" alt="Spotify Now Playing" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://open.spotify.com/user/l8ti4tlbtj47i6vjn6cb76z56">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=l8ti4tlbtj47i6vjn6cb76z56&count=5&unique=true&background_color=121212&text_color=94a3b8" width="380" alt="Recently played" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%238b5cf6&width=22" alt="" /> &nbsp;Reach me
+
+<div align="center">
+
+<a href="mailto:kenanbenpolgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kenan-ben-polgo-9bb290335/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://www.instagram.com/keenaniganss/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5Znk0NjloaTFlc2N6Yzl6a2dlYzA1a254eTFnM2hhZzk5ajNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPVzemjFi150Q/giphy.gif" width="70" alt="" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="" />
