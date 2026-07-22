@@ -1,0 +1,6 @@
+# Never commit secrets. This repo is public.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
