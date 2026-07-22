@@ -18,6 +18,19 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      # Reports only whether the secret arrived, and its length - never its value.
+      - name: Preflight - can Actions see METRICS_TOKEN?
+        env:
+          T: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -z "$T" ]; then
+            echo "::error::METRICS_TOKEN is EMPTY. The secret is missing, misnamed, or was saved under the Codespaces/Dependabot tab instead of Actions."
+            echo "Fix at: https://github.com/${{ github.repository }}/settings/secrets/actions"
+            exit 1
+          fi
+          echo "METRICS_TOKEN received: ${#T} characters."
+          echo "(A classic token is 40 chars and starts with ghp_. Fewer means a truncated paste.)"
+
       - name: Languages (all repos, private included)
         uses: lowlighter/metrics@latest
         with:
